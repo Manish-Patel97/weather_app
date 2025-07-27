@@ -1,4 +1,5 @@
 # weather_app
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+A lightweight and user-friendly Flutter application that allows users to check the current weather of any city in real-time using the OpenWeatherMap API.
+>>>>>>> 831854ab7ee277cffbf25f35df79c89b70a65cc8
