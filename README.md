@@ -1,20 +1,41 @@
-# weather_app
-<<<<<<< HEAD
+# 🌦️ Weather App
 
-A new Flutter project.
+A beautiful and responsive Flutter app that provides real-time weather updates, including current temperature, weather conditions, hourly forecast, and additional details like humidity, wind speed, and pressure.
 
-## Getting Started
+## 📱 Screenshots
 
-This project is a starting point for a Flutter application.
+### 📍 Location Screen
+![Location Screen](assets/screenshots/location_Screen-portrait.png)
 
-A few resources to get you started if this is your first Flutter project:
+### 🌤️ Weather Screen
+![Weather Screen](assets/screenshots/weather_Screen-portrait.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-A lightweight and user-friendly Flutter application that allows users to check the current weather of any city in real-time using the OpenWeatherMap API.
->>>>>>> 831854ab7ee277cffbf25f35df79c89b70a65cc8
+- Get weather by current location
+- Displays:
+  - Current temperature and conditions
+  - Hourly forecast with icons and temperatures
+  - Humidity, wind speed, and pressure
+- Animated UI with background image
+- Responsive design
+- Geolocation integration
+- Modern and minimal UI using Flutter
+
+## 🔐 API & Security
+
+- Uses a weather API for data (API key should be stored securely)
+- Do **not** commit your API key to the repository
+- Use `dotenv` or a config file excluded by `.gitignore`
+
+## 📦 Dependencies
+
+- `http`
+- `geolocator`
+- `flutter_svg`
+- `flutter_dotenv` *(optional for API key hiding)*
+
+👨‍💻 Developed By
+Manish Kumar Patel
+Flutter Developer | Bengaluru, India
+LinkedIn | GitHub
