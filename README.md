@@ -5,10 +5,10 @@ A beautiful and responsive Flutter app that provides real-time weather updates, 
 ## 📱 Screenshots
 
 ### 📍 Location Screen
-![Location Screen](assets/screenshots/location_Screen-portrait.png)
+<img src="assets/screenshots/location_Screen-portrait.png" alt="Location Screen" width="250"/>
 
 ### 🌤️ Weather Screen
-![Weather Screen](assets/screenshots/weather_Screen-portrait.png)
+<img src="assets/screenshots/weather_Screen-portrait.png" alt="Weather Screen" width="250"/>
 
 ## 🚀 Features
 
